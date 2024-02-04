@@ -13,6 +13,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/express.js-%234ea94b.svg?style=flat-square&logo=express.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=flat-square&logo=typescript&logoColor=%23F7DF1E)
+
 <br/>
 
 ## GitHub Stats <img src="assets/images/Bar Chart.png" width="30">
