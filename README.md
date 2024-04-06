@@ -11,7 +11,7 @@ I'm a passionate developer specializing in full stack web development. My enthus
 ### Frontend Development
 <p align="start">
   <a href="https://www.linkedin.com/in/gamzeşirin/">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
   </a>
 </p>
 
