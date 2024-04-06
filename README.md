@@ -25,7 +25,7 @@ I'm a passionate developer specializing in full stack web development. My enthus
 ### Programming Languages
 <p align="start">
   <a href="https://www.linkedin.com/in/gamzeşirin/">
-    <img src="https://skillicons.dev/icons?i=js,ts" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,python" />
   </a>
 </p>
 
