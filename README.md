@@ -33,7 +33,3 @@ I'm a passionate developer specializing in full stack web development. My enthus
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamzesirin&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com?user=gamzesirin&theme=dark&hide_border=true&border_radius=2&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
-# Activity Overview
-![Gamze's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gamzesirin&bg_color=000000&color=ffffff&line=ffffff&point=00ff00&area=true&hide_border=true)
-
-
