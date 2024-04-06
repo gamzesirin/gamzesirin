@@ -7,9 +7,25 @@ I'm a passionate developer specializing in full stack web development. My enthus
 - 🤝 I'm open to collaborations on projects that are innovative and challenging.
 
 # Tech Stack <img src="assets/images/Rocket.png" width="30">
+
+### Frontend Development
 <p align="start">
   <a href="https://www.linkedin.com/in/gamzeşirin/">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,nextjs,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,react,nextjs" />
+  </a>
+</p>
+
+### Backend Development
+<p align="start">
+  <a href="https://www.linkedin.com/in/gamzeşirin/">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  </a>
+</p>
+
+### Programming Languages
+<p align="start">
+  <a href="https://www.linkedin.com/in/gamzeşirin/">
+    <img src="https://skillicons.dev/icons?i=js,ts" />
   </a>
 </p>
 
