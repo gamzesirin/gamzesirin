@@ -1,4 +1,4 @@
-# Hi, I'm Gamze! <img src="assets/images/Woman Technologist Medium Skin Tone.png" width="30">
+# Hi, I'm Gamze!
 I'm a passionate developer specializing in full stack web development. My enthusiasm for technology drives me to continuously explore and master new skills. I believe in using software to solve practical problems and create meaningful impact.
 
 - 📚 I'm constantly learning and pushing the boundaries of web technologies.
