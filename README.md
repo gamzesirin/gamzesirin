@@ -1,23 +1,18 @@
+# Hi, I'm Gamze! <img src="assets/images/Woman Technologist Medium Skin Tone.png" width="30">
+I'm a passionate developer specializing in full stack web development. My enthusiasm for technology drives me to continuously explore and master new skills. I believe in using software to solve practical problems and create meaningful impact.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gamzeşirin/) 
+- 📚 I'm constantly learning and pushing the boundaries of web technologies.
+- 🌐 I have a strong interest in both front-end and back-end development, aiming to craft seamless user experiences.
+- 🌱 Currently, I'm diving deeper into modern JavaScript frameworks and backend development.
+- 🤝 I'm open to collaborations on projects that are innovative and challenging.
 
-# Technical Skills ✨
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%231572B6.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Nextjs-black?style=flat-square&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express.js-%234ea94b.svg?style=flat-square&logo=express.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=flat-square&logo=typescript&logoColor=white)
+# Tech Stack <img src="assets/images/Rocket.png" width="30">
+<p align="start">
+  <a href="https://www.linkedin.com/in/gamzeşirin/">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,bootstrap,tailwind,sass" />
+  </a>
+</p>
 
-<br/>
-
-## GitHub Stats <img src="assets/images/Bar Chart.png" width="30">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gamzesirin&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gamzesirin&theme=dark&hide_border=true&border_radius=2&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
-
+# GitHub Stats <img src="assets/images/Comet.png" width="30">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamzesirin&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gamzesirin&theme=dark&hide_border=true&border_radius=2&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
