@@ -9,7 +9,7 @@ I'm a passionate developer specializing in full stack web development. My enthus
 # Tech Stack <img src="assets/images/Rocket.png" width="30">
 <p align="start">
   <a href="https://www.linkedin.com/in/gamzeşirin/">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,bootstrap,tailwind,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,nextjs,nodejs,express,mongodb" />
   </a>
 </p>
 
