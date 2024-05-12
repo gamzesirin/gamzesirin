@@ -11,14 +11,14 @@ I'm a passionate developer specializing in full stack web development. My enthus
 ### Frontend Development
 <p align="start">
   <a href="https://www.linkedin.com/in/gamzeşirin/">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,nextjs" />
   </a>
 </p>
 
 ### Backend Development
 <p align="start">
   <a href="https://www.linkedin.com/in/gamzeşirin/">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
   </a>
 </p>
 
