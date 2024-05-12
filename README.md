@@ -18,16 +18,10 @@ I'm a passionate developer specializing in full stack web development. My enthus
 ### Backend Development
 <p align="start">
   <a href="https://www.linkedin.com/in/gamzeşirin/">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,python,nodejs,express,mongodb,mysql,firebase" />
   </a>
 </p>
 
-### Programming Languages
-<p align="start">
-  <a href="https://www.linkedin.com/in/gamzeşirin/">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,python" />
-  </a>
-</p>
 
 # GitHub Stats <img src="assets/images/Comet.png" width="30">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamzesirin&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
