@@ -1,10 +1,4 @@
-# Hi, I'm Gamze!
-I'm a passionate developer specializing in full stack web development. My enthusiasm for technology drives me to continuously explore and master new skills. I believe in using software to solve practical problems and create meaningful impact.
 
-- 📚 I'm constantly learning and pushing the boundaries of web technologies.
-- 🌐 I have a strong interest in both front-end and back-end development, aiming to craft seamless user experiences.
-- 🌱 Currently, I'm diving deeper into modern JavaScript frameworks and backend development.
-- 🤝 I'm open to collaborations on projects that are innovative and challenging.
 
 # Tech Stack <img src="assets/images/Rocket.png" width="30">
 
