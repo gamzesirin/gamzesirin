@@ -1,24 +1,25 @@
 <p align="center">
-  <img src="./gamze.svg" width="100%" alt="Gamze Şirin — Software Engineer · React.js · Next.js · Node.js" />
+  <img src="./gamze.svg" width="100%" alt="Gamze Şirin — Software Engineer · Fullstack Developer · React.js · Next.js · Node.js" />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=520&lines=%3E+Frontend+Odakl%C4%B1+Yaz%C4%B1l%C4%B1m+M%C3%BChendisi;%3E+React.js+%C2%B7+Next.js+%C2%B7+Node.js;%3E+Clean+Code+%26+SOLID;%3E+UX+her+karar%C4%B1n+merkezinde"
-    alt="Frontend Odaklı Yazılım Mühendisi | React.js · Next.js · Node.js | Clean Code & SOLID"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=520&lines=%3E+Fullstack+Geli%C5%9Ftirici;%3E+Frontend+%2B+Backend%2C+u%C3%A7tan+uca;%3E+React.js+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Express.js;%3E+Clean+Code+%26+SOLID"
+    alt="Fullstack Geliştirici | Frontend + Backend, uçtan uca | React.js · Next.js · Node.js · Express.js | Clean Code & SOLID"
   />
 </p>
 
 ### `> whoami`
 
-Frontend odaklı bir yazılım mühendisiyim. React.js ekosisteminde (Next.js, Zustand,
-React Query) ölçeklenebilir ve performanslı arayüzler geliştiriyorum; component
-mimarisi, state yönetimi ve uygulama optimizasyonu en çok kafa yorduğum konular.
+Fullstack geliştiriciyim; bir ürünü arayüzünden API'sine kadar uçtan uca
+geliştiriyorum. Frontend tarafında React.js ve Next.js ile (Zustand, React Query)
+ölçeklenebilir, performanslı arayüzler kuruyorum. Backend tarafında Node.js ve
+Express.js ile RESTful API'ler, veri modelleme ve kimlik doğrulama/yetkilendirme
+sistemleri geliştiriyorum.
 
-Backend tarafında Node.js ve Express.js ile API geliştirme, veri modelleme ve
-kimlik doğrulama/yetkilendirme üzerine deneyim kazanıyorum. Clean code ve SOLID
-prensipleriyle okunabilir, sürdürülebilir kod yazmayı; kullanıcı deneyimini her
-kararın merkezinde tutmayı önemsiyorum.
+İki katman arasındaki veri akışını doğru kurgulamak, component mimarisinden API
+tasarımına kadar her katmanda Clean Code ve SOLID prensipleriyle okunabilir,
+sürdürülebilir kod yazmak önceliğim.
 
 <p align="center">
   <img src="./gamze-skills.svg" width="100%" alt="Toolkit: HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Zustand, React Query, Tailwind CSS, Node.js, Express.js, RESTful API, MCP" />
